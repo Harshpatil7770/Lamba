@@ -22,3 +22,6 @@
    {} = body expression / statement
 5) Lambda expression is anonymous means it does have return type as well as the method name.
 6) It helps to iterate , filter and extract the data from collections.
+7) Why only one method to use the lambda expression, because lambda expression means anonymous, there is no method name and return type, so 
+   let's in your interface two method add and sub , it will create ambuguity.
+   
