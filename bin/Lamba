@@ -1,0 +1,24 @@
+******************  Traditional Approch ******************  
+-----------------------------------------------------------------------
+
+1) let us consider you have an interface which one method inside it.
+2) To use this method you need to create a class , implement that interface and
+   provide the implementation of that interface method also.
+3) To call this you need to create the object of class.
+
+
+******************   Lamba Expression ******************  
+-----------------------------------------------------------------------
+
+1) Lambda expression is a function.
+2) Main purpose of this is provide the implementation of functional interfaces and reduce the boiler-
+   plate code.
+3) So, it is function so .class file will not get create.
+4) here is symbol of lamba function 
+   () ->  {} 
+   () = arguments / no argument- no parameterized lamba / one argument - one parameterized lamba
+                  / two arguments - two parameterized lamba
+   -> = arrow token used to connects argument lists with body expression
+   {} = body expression / statement
+5) Lambda expression is anonymous means it does have return type as well as the method name.
+6) It helps to iterate , filter and extract the data from collections.
